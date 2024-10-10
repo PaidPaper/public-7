@@ -11,6 +11,8 @@ print("Wanda testing preflight 0.8.1")
 
 print("Wanda testing v0.8.0 Preflight 0.1")
 print("Wanda testing notifications 0.2") # old local testing
+print("Wanda testing preflight 0.8.11") #old local testing
 print("Wanda testing preflight 0.8.1")
+
 
 print("Wanda testing preflight 0.8.1")
